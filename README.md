@@ -6,4 +6,4 @@
 - Shoot the demons summoned by the boss to increase your score
 - Catch the baby dragons to increase your score
 - Avoid shooting the baby dragons or you will loose points!
-- Game is over when touched by a demon
+- Game is over when a demon touches the dragon, avoid them!
